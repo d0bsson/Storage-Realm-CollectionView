@@ -17,6 +17,7 @@ class RealmManager{
         fetchResults()
     }
     
+    
     //Create
     func writeToRealm(photoName: String) {
         let imageItem = ImageItem()
